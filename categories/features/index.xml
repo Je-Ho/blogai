@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>features on hofmann.ai</title>
-    <link>https://Je-Ho.github.io/blog/categories/features/</link>
+    <link>https://Je-Ho.github.io/blogai/categories/features/</link>
     <description>Recent content in features on hofmann.ai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://Je-Ho.github.io/blog/categories/features/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://Je-Ho.github.io/blogai/categories/features/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elements showcase</title>
-      <link>https://Je-Ho.github.io/blog/2015/05/elements-showcase/</link>
+      <link>https://Je-Ho.github.io/blogai/2015/05/elements-showcase/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://Je-Ho.github.io/blog/2015/05/elements-showcase/</guid>
+      <guid>https://Je-Ho.github.io/blogai/2015/05/elements-showcase/</guid>
       <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Cover image showcase</title>
-      <link>https://Je-Ho.github.io/blog/2015/05/cover-image-showcase/</link>
+      <link>https://Je-Ho.github.io/blogai/2015/05/cover-image-showcase/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://Je-Ho.github.io/blog/2015/05/cover-image-showcase/</guid>
+      <guid>https://Je-Ho.github.io/blogai/2015/05/cover-image-showcase/</guid>
       <description>&lt;p&gt;Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.&lt;/p&gt;</description>
     </item>
     
